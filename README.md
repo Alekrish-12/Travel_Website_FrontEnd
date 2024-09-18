@@ -87,9 +87,5 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
-### Notes:
-- Update the repository URL with your GitHub URL.
-- Add relevant screenshots under a `screenshots` folder.
-- Customize the `README.md` as per your project's specific details.
+
